@@ -1,6 +1,6 @@
 {
   "name": "@brendangooch/collision-detection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "author": "B Gooch <brendangooch@gmail.com>",
   "license": "MIT",
@@ -25,7 +25,7 @@
     "!/lib/*.js.map"
   ],
   "dependencies": {
-    "@brendangooch/maths": "^1.1.0"
+    "@brendangooch/maths": "^1.2.0"
   },
   "devDependencies": {
     "typescript": "^5.4.5"
